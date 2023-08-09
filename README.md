@@ -13,8 +13,8 @@
 
 <div align="center">
   <a href="https://github.com/anaclrra">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anaclrra&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaclrra&layout=compact&langs_count=7&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anaclrra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaclrra&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
@@ -28,6 +28,7 @@
 </div>
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/ana-clara-a5838021a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:anacl.bonifacio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=pink" target="_blank"></a>
 </div>
 

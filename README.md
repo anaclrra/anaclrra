@@ -5,7 +5,7 @@
   </h1>
   
   <p align="center">
-    Oiee, me chamo Ana Clara, tenho 19 anos e sou estudande do curso tecnólogo superior em sistemas para internet. Meu foco é o FrontEnd, e sempre estarei compartilhando meu aprendizado e projetos por aqui!
+    Oiee, me chamo Ana Clara, tenho 20 anos e sou estudande do curso tecnólogo superior em sistemas para internet. Meu foco é o FrontEnd, e sempre estarei compartilhando meu aprendizado e projetos por aqui!
    
   </p>
  
